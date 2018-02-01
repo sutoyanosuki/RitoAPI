@@ -1,0 +1,22 @@
+{
+  "file_paths": {
+    "champions_file_path": "C:\\Users\\FDM Consultant\\Desktop\\LolAPI\\champions.json",
+    "items_file_path": "C:\\Users\\FDM Consultant\\Desktop\\LolAPI\\items.json",
+    "runes_file_path": "C:\\Users\\FDM Consultant\\Desktop\\LolAPI\\runes.json",
+    "summoner_spells_file_path": "C:\\Users\\FDM Consultant\\Desktop\\LolAPI\\summoner_spells.json"
+  },
+  "profile":{
+    "last_selected_region": "na1",
+    "last_selected_champion": "ahri"
+  },
+  "connectivity":{
+    "api_key": "abcd",
+    "region_list" :[
+      "na1","euw1","eune1","kr"
+    ]
+  }
+
+
+
+
+}
